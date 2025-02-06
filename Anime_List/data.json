@@ -1,0 +1,586 @@
+[
+	{
+    v_map = new HashMap<>();
+		v_map.put("icon", "ic1_1");
+		v_map.put("name", "Комендант общежития богинь");
+		v_map.put("studio", "asread");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Продолжение: Неизвестно...");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "1");
+		l_map.add(v_map);
+  },
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic2_1");
+		v_map.put("name", "Дневник будущего");
+		v_map.put("studio", "asread");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "Вышел");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "2");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic3_1");
+		v_map.put("name", "Развращённая гильдия");
+		v_map.put("studio", "TNK");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Продолжение: Неизвестно...");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "3");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic4_1");
+		v_map.put("name", "Терраса кафе богинь");
+		v_map.put("studio", "Tezuka Production");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "Продолжение: Неизвестно...");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "4");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic5_1");
+		v_map.put("name", "Аля иногда кокетничает со мной по-русски");
+		v_map.put("studio", "Dogakobo");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "2 сезон: Ононсирован в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "5");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic6_1");
+		v_map.put("name", "Девушка на час");
+		v_map.put("studio", "TMS Entertainment");
+		v_map.put("seasons", "3");
+		v_map.put("all_seasons", "(3)"); 
+		v_map.put("status", "4 сезон: Ононсирован в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "6");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic7_1");
+		v_map.put("name", "Пять невест");
+		v_map.put("studio", "Tezuka Production");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(4)"); 
+		v_map.put("status", "Продолжение: Неизвестно...");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "7");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic8_1");
+		v_map.put("name", "Девушки на линии фронта");
+		v_map.put("studio", "Asahi Production");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Вышел");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "8");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic9_1");
+		v_map.put("name", "Студия, солнечная сторона, есть ангел");
+		v_map.put("studio", "Okuru to Noboru");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Вышел");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "9");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic10_1");
+		v_map.put("name", "Ангел по соседству");
+		v_map.put("studio", "Project No.9");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "2 сезон: Ононсирован в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "10");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic11_1");
+		v_map.put("name", "Неразумный ангел в танце с демоном");
+		v_map.put("studio", "Children's Playground Entertainment");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "2 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "11");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic12_1");
+		v_map.put("name", "Унеси меня на Луну");
+		v_map.put("studio", "Seven Arcs");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(5)"); 
+		v_map.put("status", "3 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "12");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic13_1");
+		v_map.put("name", "Жизнь с моей сводной сестрой");
+		v_map.put("studio", "Studio DEEN");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Продолжение: Неизвестно...");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "13");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic14_1");
+		v_map.put("name", "Псевдогарем");
+		v_map.put("studio", "Nomad");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Вышел");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "14");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic15_1");
+		v_map.put("name", "Слушайтесь папу!");
+		v_map.put("studio", "feel.");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(3)"); 
+		v_map.put("status", "Вышел");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "15");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic16_1");
+		v_map.put("name", "Моя девушка и подруга детства часто ссорятся");
+		v_map.put("studio", "A-1 Pictures Inc.");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Вышел");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "16");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic17_1");
+		v_map.put("name", "Волшебница и злой офицер");
+		v_map.put("studio", "Bones");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "2 сезон: Ожидается в 2026г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "17");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic18_1");
+		v_map.put("name", "Последнее поле брани между тобой и мной, или Святая война сотворения мира");
+		v_map.put("studio", "Silver Link");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "Онгоинг");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "18");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic19_1");
+		v_map.put("name", "Может, я встречу тебя в подземелье?");
+		v_map.put("studio", "J.C. Staff");
+		v_map.put("seasons", "5");
+		v_map.put("all_seasons", "(6)"); 
+		v_map.put("status", "Онгоинг");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "19");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic20_1");
+		v_map.put("name", "Мифический дух: Хроники");
+		v_map.put("studio", "TMS Entertainment");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "3 сезон: Ожидается в 2026г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "20");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic21_1");
+		v_map.put("name", "Голубая шкатулка");
+		v_map.put("studio", "Telecom Animation Film");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Онгоинг");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "21");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic22_1");
+		v_map.put("name", "Брачные узы с семьёй Амагами");
+		v_map.put("studio", "Drive");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Онгоинг");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "22");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic23_1");
+		v_map.put("name", "Лунное путешествие приведёт к новому миру");
+		v_map.put("studio", "C2C");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "3 сезон: Ожидается в 2026г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "23");
+		l_map.add(v_map);
+
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic24_1");
+		v_map.put("name", "Укротитель зверей, изгнанный из команды героя, встретил девочку-кошку из сильнейшей расы");
+		v_map.put("studio", "EMT²");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Продолжение: Неизвестно...");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "24");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic25_1");
+		v_map.put("name", "Добро пожаловать в класс превосходства");
+		v_map.put("studio", "Lerche");
+		v_map.put("seasons", "3");
+		v_map.put("all_seasons", "(3)"); 
+		v_map.put("status", "4 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "25");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic26_1");
+		v_map.put("name", "Шпионский класс");
+		v_map.put("studio", "feel.");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "3 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "26");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic27_1");
+		v_map.put("name", "О моём перерождении в слизь");
+		v_map.put("studio", "8bit");
+		v_map.put("seasons", "3");
+		v_map.put("all_seasons", "(8)"); 
+		v_map.put("status", "4 сезон: Ожидается в 2025-2027г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "27");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic28_1");
+		v_map.put("name", "Re: Жизнь в альтернативном мире с нуля");
+		v_map.put("studio", "White Fox");
+		v_map.put("seasons", "3");
+		v_map.put("all_seasons", "(5)"); 
+		v_map.put("status", "Онгоинг");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "28");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic29_1");
+		v_map.put("name", "Нападение одиночки на иной мир");
+		v_map.put("studio", "Passione");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "2 сезон: Ожидается в 2026-2027г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "29");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic30_1");
+		v_map.put("name", "У Коми проблемы с общением");
+		v_map.put("studio", "Oriental Light and Magic");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "3 сезон: Ожидается в 2025-2026г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "30");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic31_1");
+		v_map.put("name", "Моя геройская академия");
+		v_map.put("studio", "Bones");
+		v_map.put("seasons", "7");
+		v_map.put("all_seasons", "(7)"); 
+		v_map.put("status", "8 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "31");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic32_1");
+		v_map.put("name", "Некий научный Акселератор");
+		v_map.put("studio", "A.C.G.T.  |  J.C. Staff");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Вышел");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "32");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic33_1");
+		v_map.put("name", "Индекс волшебства");
+		v_map.put("studio", "J.C. Staff");
+		v_map.put("seasons", "3");
+		v_map.put("all_seasons", "(3)"); 
+		v_map.put("status", "Вышел");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "33");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic34_1");
+		v_map.put("name", "Некий научный Рейлган");
+		v_map.put("studio", "J.C. Staff");
+		v_map.put("seasons", "3");
+		v_map.put("all_seasons", "(3)"); 
+		v_map.put("status", "Вышел");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "34");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic35_1");
+		v_map.put("name", "Дандадан");
+		v_map.put("studio", "Science SARU");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "2 сезон: Ононсирован в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "35");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic36_1");
+		v_map.put("name", "Рубеж Шангри-Ла: Любитель игрошлака бросает вызов топ-игре");
+		v_map.put("studio", "C2C");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "Онгоинг");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "36");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic37_1");
+		v_map.put("name", "Повелитель");
+		v_map.put("studio", "Madhouse Studios");
+		v_map.put("seasons", "4");
+		v_map.put("all_seasons", "(4)"); 
+		v_map.put("status", "5 сезон: Ожидается в 2026-2027г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "37");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic38_1");
+		v_map.put("name", "Моб Психо 100");
+		v_map.put("studio", "Bones");
+		v_map.put("seasons", "3");
+		v_map.put("all_seasons", "(3)"); 
+		v_map.put("status", "4 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "38");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic39_1");
+		v_map.put("name", "Этот замечательный мир!");
+		v_map.put("studio", "Studio DEEN");
+		v_map.put("seasons", "3");
+		v_map.put("all_seasons", "(6)"); 
+		v_map.put("status", "4 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "39");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic40_1");
+		v_map.put("name", "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят");
+		v_map.put("studio", "Bibury Animation Studios");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "Онгоинг");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "40");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic41_1");
+		v_map.put("name", "Провожающая в последний путь Фрирен");
+		v_map.put("studio", "Madhouse Studios");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "2 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "41");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic42_1");
+		v_map.put("name", "Хоримия");
+		v_map.put("studio", "CloverWorks");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "3 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "42");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic43_1");
+		v_map.put("name", "Я женился на однокласснице, которую ненавидел");
+		v_map.put("studio", "AXsiZ  |  Studio Gokumi");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "Онгоинг");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "1");
+		v_map.put("number", "43");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic44_1");
+		v_map.put("name", "Эта фарфоровая кукла влюбилась");
+		v_map.put("studio", "CloverWorks");
+		v_map.put("seasons", "1");
+		v_map.put("all_seasons", "(1)"); 
+		v_map.put("status", "2 сезон: Ожидается в 2025г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "44");
+		l_map.add(v_map);
+	},
+	{
+		v_map = new HashMap<>();
+		v_map.put("icon", "ic45_1");
+		v_map.put("name", "Звёздное дитя");
+		v_map.put("studio", "Dogakobo");
+		v_map.put("seasons", "2");
+		v_map.put("all_seasons", "(2)"); 
+		v_map.put("status", "3 сезон: Ожидается в 2026г.");
+		v_map.put("estimation", "10");
+		v_map.put("sort", "0");
+		v_map.put("number", "45");
+		l_map.add(v_map);
+  }
+]
