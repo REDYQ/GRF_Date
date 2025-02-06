@@ -1,6 +1,6 @@
 [
 	{
-    v_map = new HashMap<>();
+		v_map = new HashMap<>();
 		v_map.put("icon", "ic1_1");
 		v_map.put("name", "Комендант общежития богинь");
 		v_map.put("studio", "asread");
@@ -11,7 +11,7 @@
 		v_map.put("sort", "0");
 		v_map.put("number", "1");
 		l_map.add(v_map);
-  },
+	},
 	{
 		v_map = new HashMap<>();
 		v_map.put("icon", "ic2_1");
@@ -582,5 +582,5 @@
 		v_map.put("sort", "0");
 		v_map.put("number", "45");
 		l_map.add(v_map);
-  }
+	}
 ]
