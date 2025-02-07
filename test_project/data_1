@@ -1,10 +1,11 @@
 "cars": [
 {
 	"name": "Ford",
- 	"models": [
- 		"Fiesta",
-   		"Focus",
-   		"Mustang"
+ 	"models": [{
+ 		"aa": "Fiesta",
+   		"bb": "Focus",
+   		"cc": "Mustang"
+	}
 	]
 },
 ]
