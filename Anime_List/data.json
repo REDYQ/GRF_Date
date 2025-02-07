@@ -297,7 +297,8 @@
 		v_map.put("sort", "0");
 		v_map.put("number", "23");
 		l_map.add(v_map);
-
+	},
+	{
 		v_map = new HashMap<>();
 		v_map.put("icon", "ic24_1");
 		v_map.put("name", "Укротитель зверей, изгнанный из команды героя, встретил девочку-кошку из сильнейшей расы");
