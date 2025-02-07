@@ -3,6 +3,3 @@
 
 # Проекты
 • Anime_List
-
-# Задачи
-[Anime_List/data.json] Исправить 303 строку кода
