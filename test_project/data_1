@@ -1,8 +1,8 @@
-[
+{
 "name": "Ford",
 "models": {
 	"aa": "Fiesta",
    	"bb": "Focus",
    	"cc": "Mustang"
 	}
-]
+}
