@@ -2,13 +2,9 @@
 	{
 		"name": "Ford",
 		"models": [
-			{
-			"aa": "Fiesta"
-			},
-			{
- 			"aa": "Focus"
+			"aa": "Fiesta",
+ 			"aa": "Focus",
 	 		"aa": "Mustang"
-			}
 		]
 	}
 ]
