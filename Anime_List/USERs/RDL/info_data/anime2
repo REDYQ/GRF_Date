@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "ic2_1",
+		"name": "Дневник будущего",
+		"studio_name": "asread",
+		"estimation": "7,9",
+		"year": "октябрь 2011г.",
+		"voiceover": "AniLibria",
+		"episode": "26",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic2_2",
+		"name": "Дневник будущего: Повторный набор",
+		"studio_name": "asread",
+		"estimation": "8,1",
+		"year": "июнь 2013г.",
+		"voiceover": "AniDUB",
+		"episode": "1",
+		"type": "OVA"
+	}
+]
