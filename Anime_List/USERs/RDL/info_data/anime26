@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "ic26_1",
+		"name": "Шпионский класс",
+		"studio_name": "feel.",
+		"estimation": "7,0",
+		"year": "январь 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic26_2",
+		"name": "Шпионский класс 2",
+		"studio_name": "feel.",
+		"estimation": "8,0",
+		"year": "июль 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	}
+]
