@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "ic23_1",
+		"name": "Лунное путешествие приведёт к новому миру",
+		"studio_name": "C2C",
+		"estimation": "9,0",
+		"year": "июль 2021г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic23_2",
+		"name": "Лунное путешествие приведёт к новому миру 2",
+		"studio_name": "J.C. Staff",
+		"estimation": "9,0",
+		"year": "январь 2024г.",
+		"voiceover": "AniLibria",
+		"episode": "25",
+		"type": "ТВ Сериал"
+	}
+]
