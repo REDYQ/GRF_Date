@@ -1,6 +1,6 @@
 [
 	{
-		"icon", "ic6_1");
+		"icon", "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic6_1.png?raw=true",
 		"name": "Девушка на час",
 		"studio_name": "TMS Entertainment",
 		"estimation": "7,8",
@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic6_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic6_2.png?raw=true",
 		"name": "Девушка на час 2",
 		"studio_name": "TMS Entertainment",
 		"estimation": "7,9",
@@ -20,7 +20,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic6_3",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic6_3.png?raw=true",
 		"name": "Девушка на час 3",
 		"studio_name": "TMS Entertainment",
 		"estimation": "7,5",
