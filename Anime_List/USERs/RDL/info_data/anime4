@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "ic4_1",
+		"name": "Терраса кафе богинь",
+		"studio_name": "Tezuka Production",
+		"estimation": "8,3",
+		"year": "апрель 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic4_2",
+		"name": "Терраса кафе богинь 2",
+		"studio_name": "Tezuka Production",
+		"estimation": "8,5",
+		"year": "июль 2024г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	}
+]
