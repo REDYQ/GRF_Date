@@ -1,6 +1,6 @@
 [
 	{
-		"icon": "ic7_1",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic7_1.png?raw=true",
 		"name": "Пять невест",
 		"studio_name": "Tezuka Production",
 		"estimation": "8,6",
@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic7_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic7_2.png?raw=true",
 		"name": "Пять невест 2",
 		"studio_name": "Bibury Animation Studios",
 		"estimation": "8,9",
@@ -20,7 +20,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic7_3",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic7_3.png?raw=true",
 		"name": "Пять невест. Фильм",
 		"studio_name": "Bibury Animation Studios",
 		"estimation": "8,8",
@@ -30,7 +30,7 @@
 		"type": "Фильм"
 	},
 	{
-		"icon": "ic7_4",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic7_4.png?raw=true",
 		"name": "Пять невест: Спецвыпуск",
 		"studio_name": "SHAFT",
 		"estimation": "8,8",
