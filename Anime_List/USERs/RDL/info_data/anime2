@@ -1,6 +1,6 @@
 [
 	{
-		"icon": "ic2_1",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic2_1.png?raw=true",
 		"name": "Дневник будущего",
 		"studio_name": "asread",
 		"estimation": "7,9",
@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic2_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic2_2.png?raw=true",
 		"name": "Дневник будущего: Повторный набор",
 		"studio_name": "asread",
 		"estimation": "8,1",
