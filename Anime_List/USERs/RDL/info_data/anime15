@@ -1,6 +1,6 @@
 [
 	{
-		"icon": "ic15_1",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic15_1.png?raw=true",
 		"name": "Слушайтесь папу!",
 		"studio_name": "feel.",
 		"estimation": "8,0",
@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic15_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic15_2.png?raw=true",
 		"name": "Слушайтесь папу! Поккапока",
 		"studio_name": "feel.",
 		"estimation": "7,4",
@@ -20,7 +20,7 @@
 		"type": "Спешл"
 	},
 	{
-		"icon": "ic15_3",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic15_3.png?raw=true",
 		"name": "Слушайтесь папу! OVA",
 		"studio_name": "feel.",
 		"estimation": "7,2",
