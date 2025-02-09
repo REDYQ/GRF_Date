@@ -1,6 +1,6 @@
 [
 	{
-		"icon": "ic4_1",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic4_1.png?raw=true",
 		"name": "Терраса кафе богинь",
 		"studio_name": "Tezuka Production",
 		"estimation": "8,3",
@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic4_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic4_2.png?raw=true",
 		"name": "Терраса кафе богинь 2",
 		"studio_name": "Tezuka Production",
 		"estimation": "8,5",
