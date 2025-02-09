@@ -1,6 +1,6 @@
 [
 	{
-		"icon": "ic19_1",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic19_1.png?raw=true",
 		"name": "Может, я встречу тебя в подземелье?",
 		"studio_name": "J.C. Staff",
 		"estimation": "8,7",
@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic19_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic19_2.png?raw=true",
 		"name": "Может, я встречу тебя в подземелье? OVA",
 		"studio_name": "J.C. Staff",
 		"estimation": "8,4",
@@ -20,7 +20,7 @@
 		"type": "OVA"
 	},
 	{
-		"icon": "ic19_3",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic19_3.png?raw=true",
 		"name": "Может, я встречу тебя в подземелье? 2",
 		"studio_name": "J.C. Staff",
 		"estimation": "8,5",
@@ -30,7 +30,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic19_4",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic19_4.png?raw=true",
 		"name": "Может, я встречу тебя в подземелье? 3",
 		"studio_name": "J.C. Staff",
 		"estimation": "8,7",
@@ -40,7 +40,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic19_5",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic19_5.png?raw=true",
 		"name": "Может, я встречу тебя в подземелье? 4",
 		"studio_name": "J.C. Staff",
 		"estimation": "8,6",
@@ -50,7 +50,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic19_6",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic19_6.png?raw=true",
 		"name": "Может, я встречу тебя в подземелье? 5",
 		"studio_name": "J.C. Staff",
 		"estimation": "9,0",
