@@ -1,0 +1,32 @@
+[
+	{
+		"icon": "ic15_1",
+		"name": "Слушайтесь папу!",
+		"studio_name": "feel.",
+		"estimation": "8,0",
+		"year": "январь 2012г.",
+		"voiceover": "AniDUB",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic15_2",
+		"name": "Слушайтесь папу! Поккапока",
+		"studio_name": "feel.",
+		"estimation": "7,4",
+		"year": "июль 2012г.",
+		"voiceover": "AniDUB",
+		"episode": "1",
+		"type": "Спешл"
+	},
+	{
+		"icon": "ic15_3",
+		"name": "Слушайтесь папу! OVA",
+		"studio_name": "feel.",
+		"estimation": "7,2",
+		"year": "июнь 2013г.",
+		"voiceover": "AniDUB",
+		"episode": "2",
+		"type": "OVA"
+	}
+]
