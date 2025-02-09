@@ -1,0 +1,32 @@
+[
+	{
+		"icon", "ic6_1");
+		"name": "Девушка на час",
+		"studio_name": "TMS Entertainment",
+		"estimation": "7,8",
+		"year": "июль 2020г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic6_2",
+		"name": "Девушка на час 2",
+		"studio_name": "TMS Entertainment",
+		"estimation": "7,9",
+		"year": "июль 2022г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic6_3",
+		"name": "Девушка на час 3",
+		"studio_name": "TMS Entertainment",
+		"estimation": "7,5",
+		"year": "июль 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	}
+]
