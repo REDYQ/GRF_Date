@@ -1,0 +1,52 @@
+[
+	{
+		"icon": "ic28_1",
+		"name": "Re: Жизнь в альтернативном мире с нуля",
+		"studio_name": "White Fox",
+		"estimation": "8,7",
+		"year": "апрель 2016г.",
+		"voiceover": "AniLibria",
+		"episode": "25",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic28_2",
+		"name": "Re: Жизнь с нуля в альтернативном мире: Снежные воспоминания",
+		"studio_name": "White Fox",
+		"estimation": "8,4",
+		"year": "октябрь 2018г.",
+		"voiceover": "SovetRomantica",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"icon": "ic28_3",
+		"name": "Re: Жизнь с нуля в альтернативном мире: Замороженные узы",
+		"studio_name": "White Fox",
+		"estimation": "8,3",
+		"year": "ноябрь 2019г.",
+		"voiceover": "AniLibria",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"icon": "ic28_4",
+		"name": "Re: Жизнь в альтернативном мире с нуля 2",
+		"studio_name": "White Fox",
+		"estimation": "8,7",
+		"year": "июль 2020г.",
+		"voiceover": "AniLibria",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic28_5",
+		"name": "Re: Жизнь в альтернативном мире с нуля 3",
+		"studio_name": "White Fox",
+		"estimation": "9,1",
+		"year": "октябрь 2024г.",
+		"voiceover": "AniLibria",
+		"episode": "16",
+		"type": "ТВ Сериал"
+	}
+]
