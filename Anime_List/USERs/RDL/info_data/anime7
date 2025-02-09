@@ -1,0 +1,42 @@
+[
+	{
+		"icon": "ic7_1",
+		"name": "Пять невест",
+		"studio_name": "Tezuka Production",
+		"estimation": "8,6",
+		"year": "январь 2019г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic7_2",
+		"name": "Пять невест 2",
+		"studio_name": "Bibury Animation Studios",
+		"estimation": "8,9",
+		"year": "январь 2021г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic7_3",
+		"name": "Пять невест. Фильм",
+		"studio_name": "Bibury Animation Studios",
+		"estimation": "8,8",
+		"year": "май 2022г.",
+		"voiceover": "AniLibria",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"icon": "ic7_4",
+		"name": "Пять невест: Спецвыпуск",
+		"studio_name": "SHAFT",
+		"estimation": "8,8",
+		"year": "сентябрь 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "2",
+		"type": "Спешл"
+	}
+]
