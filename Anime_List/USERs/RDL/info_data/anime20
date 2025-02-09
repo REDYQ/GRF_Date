@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "ic20_1",
+		"name": "Мифический дух: Хроники",
+		"studio_name": "TMS Entertainment",
+		"estimation": "8,5",
+		"year": "июль 2021г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic20_2",
+		"name": "Мифический дух: Хроники 2",
+		"studio_name": "TMS Entertainment",
+		"estimation": "8,0",
+		"year": "октябрь 2024г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	}
+]
