@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic26_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic26_2.png?raw=true",
 		"name": "Шпионский класс 2",
 		"studio_name": "feel.",
 		"estimation": "8,0",
