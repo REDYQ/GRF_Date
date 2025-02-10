@@ -1,6 +1,6 @@
 [
 	{
-		"icon": "ic30_1",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic30_1.png?raw=true",
 		"name": "У Коми проблемы с общением",
 		"studio_name": "Oriental Light and Magic",
 		"estimation": "8,4",
@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic30_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic30_2.png?raw=true",
 		"name": "У Коми проблемы с общением 2",
 		"studio_name": "Oriental Light and Magic",
 		"estimation": "8,8",
