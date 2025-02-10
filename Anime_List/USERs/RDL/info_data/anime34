@@ -1,6 +1,6 @@
 [
 	{
-		"icon": "ic34_1",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic34_1.png?raw=true",
 		"name": "Некий научный Рейлган",
 		"studio_name": "J.C. Staff",
 		"estimation": "8,2",
@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic34_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic34_2.png?raw=true",
 		"name": "Некий научный Рейлган S",
 		"studio_name": "J.C. Staff",
 		"estimation": "8,2",
@@ -20,7 +20,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic34_3",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic34_3.png?raw=true",
 		"name": "Некий научный Рейлган T",
 		"studio_name": "J.C. Staff",
 		"estimation": "8,5",
