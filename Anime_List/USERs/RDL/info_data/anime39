@@ -1,0 +1,62 @@
+[
+	{
+		"icon": "ic39_1"),
+		"name": "Этот замечательный мир!",
+		"studio_name": "Studio DEEN",
+		"estimation": "8,8",
+		"year": "январь 2016г.",
+		"voiceover": "AniLibria",
+		"episode": "10",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic39_2",
+		"name": "Этот замечательный мир! OVA",
+		"studio_name": "Studio DEEN",
+		"estimation": "8,9",
+		"year": "июнь 2016г.",
+		"voiceover": "AniLibria",
+		"episode": "1",
+		"type": "OVA"
+	},
+	{
+		"icon": "ic39_3",
+		"name": "Этот замечательный мир! 2",
+		"studio_name": "Studio DEEN",
+		"estimation": "8,9",
+		"year": "январь 2017г.",
+		"voiceover": "AniLibria",
+		"episode": "10",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic39_4",
+		"name": "Этот замечательный мир! 2 OVA",
+		"studio_name": "Studio DEEN",
+		"estimation": "8,9",
+		"year": "июль 2017г.",
+		"voiceover": "AniLibria",
+		"episode": "1",
+		"type": "OVA"
+	},
+	{
+		"icon": "ic39_5",
+		"name": "Одаривая этот замечательный мир взрывами!",
+		"studio_name": "Drive",
+		"estimation": "8,3",
+		"year": "апрель 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic39_6",
+		"name": "Этот замечательный мир! 3",
+		"studio_name": "Drive",
+		"estimation": "9,1",
+		"year": "апрель 2024г.",
+		"voiceover": "AniLibria",
+		"episode": "11",
+		"type": "ТВ Сериал"
+	}
+]
