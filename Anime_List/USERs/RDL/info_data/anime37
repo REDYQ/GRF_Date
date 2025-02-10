@@ -1,0 +1,42 @@
+[
+	{
+		"icon": "ic37_1",
+		"name": "Повелитель",
+		"studio_name": "Madhouse Studios",
+		"estimation": "9,1",
+		"year": "июль 2015г.",
+		"voiceover": "Студийная Банда",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic37_2",
+		"name": "Повелитель 2",
+		"studio_name": "Madhouse Studios",
+		"estimation": "8,9",
+		"year": "январь 2018г.",
+		"voiceover": "Студийная Банда",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic37_3",
+		"name": "Повелитель 3",
+		"studio_name": "Madhouse Studios",
+		"estimation": "9,0",
+		"year": "июль 2018г.",
+		"voiceover": "Студийная Банда",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic37_4",
+		"name": "Повелитель 4",
+		"studio_name": "Madhouse Studios",
+		"estimation": "9,1",
+		"year": "июль 2022г.",
+		"voiceover": "Студийная Банда",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	}
+]
