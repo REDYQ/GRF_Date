@@ -1,6 +1,6 @@
 [
 	{
-		"icon": "ic37_1",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic37_1.png?raw=true",
 		"name": "Повелитель",
 		"studio_name": "Madhouse Studios",
 		"estimation": "9,1",
@@ -10,7 +10,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic37_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic37_2.png?raw=true",
 		"name": "Повелитель 2",
 		"studio_name": "Madhouse Studios",
 		"estimation": "8,9",
@@ -20,7 +20,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic37_3",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic37_3.png?raw=true",
 		"name": "Повелитель 3",
 		"studio_name": "Madhouse Studios",
 		"estimation": "9,0",
@@ -30,7 +30,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic37_4",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic37_4.png?raw=true",
 		"name": "Повелитель 4",
 		"studio_name": "Madhouse Studios",
 		"estimation": "9,1",
