@@ -1,0 +1,33 @@
+
+[
+	{
+		"icon": "ic38_1",
+		"name": "Моб Психо 100",
+		"studio_name": "Bones",
+		"estimation": "9,1",
+		"year": "июль 2016г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic38_2",
+		"name": "Моб Психо 100 2",
+		"studio_name": "Bones",
+		"estimation": "9,2",
+		"year": "январь 2019г.",
+		"voiceover": "AniLibria",
+		"episode": "13"
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic38_3",
+		"name": "Моб Психо 100 3",
+		"studio_name": "Bones",
+		"estimation": "9,3",
+		"year": "октябрь 2022г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	}
+]
