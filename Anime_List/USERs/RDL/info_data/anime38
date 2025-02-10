@@ -1,7 +1,7 @@
 
 [
 	{
-		"icon": "ic38_1",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic38_1.png?raw=true",
 		"name": "Моб Психо 100",
 		"studio_name": "Bones",
 		"estimation": "9,1",
@@ -11,7 +11,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic38_2",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic38_2.png?raw=true",
 		"name": "Моб Психо 100 2",
 		"studio_name": "Bones",
 		"estimation": "9,2",
@@ -21,7 +21,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "ic38_3",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic38_3.png?raw=true",
 		"name": "Моб Психо 100 3",
 		"studio_name": "Bones",
 		"estimation": "9,3",
