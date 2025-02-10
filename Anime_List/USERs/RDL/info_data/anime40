@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "ic40_1",
+		"name": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят",
+		"studio_name": "Bibury Animation Studios",
+		"estimation": "8,4",
+		"year": "октябрь 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic40_2",
+		"name": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят 2",
+		"studio_name": "Bibury Animation Studios",
+		"estimation": "8,9",
+		"year": "январь 2025г.",
+		"voiceover": "AniLibria",
+		"episode": "?",
+		"type": "ТВ Сериал"
+	}
+]
