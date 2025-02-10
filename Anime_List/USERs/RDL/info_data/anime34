@@ -1,0 +1,32 @@
+[
+	{
+		"icon": "ic34_1",
+		"name": "Некий научный Рейлган",
+		"studio_name": "J.C. Staff",
+		"estimation": "8,2",
+		"year": "октябрь 2009г.",
+		"voiceover": "AniLibria",
+		"episode": "24",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic34_2",
+		"name": "Некий научный Рейлган S",
+		"studio_name": "J.C. Staff",
+		"estimation": "8,2",
+		"year": "апреля 2013г.",
+		"voiceover": "AniLibria",
+		"episode": "24",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic34_3",
+		"name": "Некий научный Рейлган T",
+		"studio_name": "J.C. Staff",
+		"estimation": "8,5",
+		"year": "январь 2020г.",
+		"voiceover": "AniLibria",
+		"episode": "25",
+		"type": "ТВ Сериал"
+	}
+]
