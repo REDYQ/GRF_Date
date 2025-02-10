@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "ic30_1",
+		"name": "У Коми проблемы с общением",
+		"studio_name": "Oriental Light and Magic",
+		"estimation": "8,4",
+		"year": "октябрь 2021г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic30_2",
+		"name": "У Коми проблемы с общением 2",
+		"studio_name": "Oriental Light and Magic",
+		"estimation": "8,8",
+		"year": "апрель 2022г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	}
+]
