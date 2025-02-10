@@ -1,0 +1,32 @@
+[
+	{
+		"icon": "ic33_1",
+		"name": "Индекс волшебства",
+		"studio_name": "J.C. Staff",
+		"estimation": "7,8",
+		"year": "октябрь 2008г.",
+		"voiceover": "AniLibria",
+		"episode": "24",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic33_2",
+		"name": "Индекс волшебства 2",
+		"studio_name": "J.C. Staff",
+		"estimation": "8,0",
+		"year": "октябрь 2010г.",
+		"voiceover": "AniLibria",
+		"episode": "24",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic33_3",
+		"name": "Индекс волшебства 3",
+		"studio_name": "J.C. Staff",
+		"estimation": "8,1",
+		"year": "октябрь 2018г.",
+		"voiceover": "AniLibria",
+		"episode": "26",
+		"type": "ТВ Сериал"
+	}
+]
