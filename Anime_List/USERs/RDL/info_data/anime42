@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "ic42_1",
+		"name": "Хоримия",
+		"studio_name": "CloverWorks",
+		"estimation": "9,3",
+		"year": "январь 2021г.",
+		"voiceover": "AniLibria",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic42_2",
+		"name": "Хоримия: Кусочек",
+		"studio_name": "CloverWorks",
+		"estimation": "9,2",
+		"year": "июль 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	}
+]
