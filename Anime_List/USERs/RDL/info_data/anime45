@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "ic45_1",
+		"name": "Звёздное дитя",
+		"studio_name": "Dogakobo",
+		"estimation": "9,2",
+		"year": "апрель 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "11",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "ic45_2",
+		"name": "Звёздное дитя 2",
+		"studio_name": "Dogakobo",
+		"estimation": "9,2",
+		"year": "июль 2024г.",
+		"voiceover": "AniLibria",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	}
+]
