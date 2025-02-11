@@ -1,6 +1,6 @@
 [
 	{
-		"icon", "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic6_1.png?raw=true",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic6_1.png?raw=true",
 		"name": "Девушка на час",
 		"studio_name": "TMS Entertainment",
 		"estimation": "7,8",
