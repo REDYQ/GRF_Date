@@ -6,4 +6,10 @@
 GRF_Date — это база данных в которой собраны все данные проектов «REDYQ»
 
 # Интегрированные проекты
-• Anime_List
+• Game_Stats  『 0% 』
+
+• Song_List  『 0% 』
+
+• Anime_List  『 90% 』
+
+• SketchWare_Translate  『 0% 』
