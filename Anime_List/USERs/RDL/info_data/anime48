@@ -1,0 +1,32 @@
+[
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic48_1.png?raw=true",
+		"name": "Мой счастливый брак",
+		"studio_name": "Kinema Citrus",
+		"estimation": "8,7",
+		"year": "июль 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic48_2.png?raw=true",
+		"name": "Мой счастливый брак: Форма моего счастья",
+		"studio_name": "Kinema Citrus",
+		"estimation": "8,5",
+		"year": "март 2024г.",
+		"voiceover": "AniLibria",
+		"episode": "1",
+		"type": "OVA"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic48_3.png?raw=true",
+		"name": "Мой счастливый брак 2",
+		"studio_name": "Kinema Citrus",
+		"estimation": "8,8",
+		"year": "январь 2025г.",
+		"voiceover": "AniLibria",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	}
+]
