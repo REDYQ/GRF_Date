@@ -504,5 +504,27 @@
 		"estimation": "10",
 		"sort": "1",
 		"number": "46"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic47_1.png?raw=true",
+		"name": "Дни Сакамото",
+		"studio": "TMS Entertainment",
+		"seasons": "1",
+		"all_seasons": "(1)",
+		"status": "Онгоинг",
+		"estimation": "10",
+		"sort": "1",
+		"number": "47"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic48_1.png?raw=true",
+		"name": "Мой счастливый брак",
+		"studio": "Kinema Citrus",
+		"seasons": "2",
+		"all_seasons": "(3)",
+		"status": "Онгоинг",
+		"estimation": "10",
+		"sort": "1",
+		"number": "48"
 	}
 ]
