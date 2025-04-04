@@ -537,5 +537,16 @@
 		"estimation": "10",
 		"sort": "0",
 		"number": "49"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic50_1.png?raw=true",
+		"name": "Туалетный мальчик Ханако",
+		"studio": "Lerche",
+		"seasons": "2",
+		"all_seasons": "(4)",
+		"status": "Онгоинг",
+		"estimation": "10",
+		"sort": "1",
+		"number": "50"
 	}
 ]
