@@ -1,0 +1,22 @@
+[
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic51_1.png?raw=true",
+		"name": "Непостижимая Ахарэн",
+		"studio_name": "Felix Film",
+		"estimation": "8,3",
+		"year": "апрель 2022г.",
+		"voiceover": "AniLibria",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic51_2.png?raw=true",
+		"name": "Непостижимая Ахарэн 2",
+		"studio_name": "Felix Film",
+		"estimation": "?",
+		"year": "апрель 2025г.",
+		"voiceover": "AniLibria",
+		"episode": "?",
+		"type": "ТВ Сериал"
+	}
+]
