@@ -548,5 +548,16 @@
 		"estimation": "10",
 		"sort": "1",
 		"number": "50"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic51_1.png?raw=true",
+		"name": "Непостижимая Ахарэн",
+		"studio": "Felix Film",
+		"seasons": "2",
+		"all_seasons": "(2)",
+		"status": "Онгоинг",
+		"estimation": "10",
+		"sort": "1",
+		"number": "51"
 	}
 ]
