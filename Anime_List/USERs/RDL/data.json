@@ -559,5 +559,16 @@
 		"estimation": "10",
 		"sort": "1",
 		"number": "51"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic52_1.png?raw=true",
+		"name": "Магическая битва",
+		"studio": "MAPPA",
+		"seasons": "2",
+		"all_seasons": "(3)",
+		"status": "Полнометражный WakeUP: 30 мая 2025г.",
+		"estimation": "10",
+		"sort": "0",
+		"number": "52"
 	}
 ]
