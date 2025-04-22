@@ -1,6 +1,16 @@
 [
 	{
 		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic42_1.jpg?raw=true",
+		"name": "Хори и Миямура",
+		"studio_name": "Gonzo, Hoods Entertainment",
+		"estimation": "8,2",
+		"year": "сентябрь 2012г.",
+		"voiceover": "AniLibria",
+		"episode": "6",
+		"type": "OVA"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic42_2.jpg?raw=true",
 		"name": "Хоримия",
 		"studio_name": "CloverWorks",
 		"estimation": "9,3",
@@ -10,7 +20,7 @@
 		"type": "ТВ Сериал"
 	},
 	{
-		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic42_2.jpg?raw=true",
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic42_3.jpg?raw=true",
 		"name": "Хоримия: Кусочек",
 		"studio_name": "CloverWorks",
 		"estimation": "9,2",
