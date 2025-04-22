@@ -614,5 +614,49 @@
 		"estimation": "10",
 		"sort": "1",
 		"number": "56"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic57_1.png?raw=true",
+		"name": "Больше чем пара, меньше чем любовники",
+		"studio": "Studio Mother",
+		"seasons": "1",
+		"all_seasons": "(1)",
+		"status": "Продолжение: Неизвестно...",
+		"estimation": "10",
+		"sort": "0",
+		"number": "57"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic58_1.png?raw=true",
+		"name": "Карманы лета",
+		"studio": "feel.",
+		"seasons": "1",
+		"all_seasons": "(1)",
+		"status": "Онгоинг | 2/2 [?]",
+		"estimation": "10",
+		"sort": "1",
+		"number": "58"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic59_1.png?raw=true",
+		"name": "Необъятный океан",
+		"studio": "Zero-G",
+		"seasons": "1",
+		"all_seasons": "(1)",
+		"status": "Продолжение: Неизвестно...",
+		"estimation": "10",
+		"sort": "0",
+		"number": "59"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic60_1.png?raw=true",
+		"name": "Синий архив",
+		"studio": "Yostar Pictures, CANDY BOX",
+		"seasons": "1",
+		"all_seasons": "(1)",
+		"status": "Продолжение: Неизвестно...",
+		"estimation": "10",
+		"sort": "0",
+		"number": "60"
 	}
 ]
