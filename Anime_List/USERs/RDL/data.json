@@ -702,5 +702,16 @@
 		"estimation": "10",
 		"sort": "0",
 		"number": "64"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic65_1.jpg?raw=true",
+		"name": "Мэдака Куроива не понимает моей привлекательности",
+		"studio": "SynergySP",
+		"seasons": "1",
+		"all_seasons": "(1)",
+		"status": "Продолжение: Неизвестно...",
+		"estimation": "10",
+		"sort": "0",
+		"number": "65"
 	}
 ]
