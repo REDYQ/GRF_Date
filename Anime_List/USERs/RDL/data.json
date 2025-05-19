@@ -658,5 +658,16 @@
 		"estimation": "10",
 		"sort": "0",
 		"number": "60"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic61_1.jpg?raw=true",
+		"name": "Сведённые кукушкой",
+		"studio": "Shin-Ei Animation, SynergySP",
+		"seasons": "1",
+		"all_seasons": "(1)",
+		"status": "Вышел",
+		"estimation": "10",
+		"sort": "0",
+		"number": "61"
 	}
 ]
