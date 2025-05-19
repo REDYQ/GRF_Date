@@ -683,6 +683,17 @@
 	},
 	{
 		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic63_1.jpg?raw=true",
+		"name": "Ван-Пис",
+		"studio": "Toei Animation",
+		"seasons": "1",
+		"all_seasons": "(1)",
+		"status": "Онгоинг | 26 / 1127 [?]",
+		"estimation": "10",
+		"sort": "1",
+		"number": "63"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic63_1.jpg?raw=true",
 		"name": "Этот глупый свин не понимает мечту девочки-зайки",
 		"studio": "CloverWorks",
 		"seasons": "1",
@@ -690,6 +701,6 @@
 		"status": "Ожидается в начале июля 2025г.",
 		"estimation": "10",
 		"sort": "0",
-		"number": "63"
+		"number": "64"
 	}
 ]
