@@ -1,0 +1,42 @@
+[
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic63_1.jpg?raw=true",
+		"name": "Этот глупый свин не понимает мечту девочки-зайки",
+		"studio_name": "CloverWorks",
+		"estimation": "9,2",
+		"year": "октябрь 2018г.",
+		"voiceover": "AniLibria",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic63_2.jpg?raw=true",
+		"name": "Этот глупый свин не понимает мечту девочки-зайки. Фильм",
+		"studio_name": "CloverWorks",
+		"estimation": "9,4",
+		"year": "июнь 2019г.",
+		"voiceover": "AniLibria",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic63_3.jpg?raw=true",
+		"name": "Этот глупый свин не понимает мечту сестры на прогулке",
+		"studio_name": "CloverWorks",
+		"estimation": "8,6",
+		"year": "июнь 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"icon": "https://github.com/REDYQ/GRF_Date/blob/main/Anime_List/icon/ic63_4.jpg?raw=true",
+		"name": "Этот глупый свин не понимает мечту девушки с рюкзаком",
+		"studio_name": "CloverWorks",
+		"estimation": "9,1",
+		"year": "декабрь 2023г.",
+		"voiceover": "AniLibria",
+		"episode": "1",
+		"type": "Фильм"
+	}
+]
