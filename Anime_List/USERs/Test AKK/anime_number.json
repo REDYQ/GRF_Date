@@ -1,11 +1,11 @@
 [
 	{
 		"all": "1",
-		"looking": "-",
-		"ongoing": "-",
-		"came_out": "-",
-		"announced": "-",
-		"expected": "-",
-		"unknown": "-"
+		"looking": "0",
+		"ongoing": "0",
+		"came_out": "1",
+		"announced": "0",
+		"expected": "0",
+		"unknown": "0"
 	}
 ]
